@@ -10,7 +10,6 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 - 🎯 **Goals:** Consolidating my programming foundations.
 ### 🛠️ Technologies & Tools
 - **Languages:** HTML5, CSS3, JavaScript, Java, Swift.
-- **Tools:** Git, GitHub, VS Code.
 ---
 ### 📫 How to reach me
 - 💬 Ask me about: Software development or my current projects.
