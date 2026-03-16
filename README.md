@@ -11,5 +11,6 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 ### 🛠️ Technologies
 - **Languages:** HTML5, CSS3, JavaScript, Java, Swift.
 ---
-📫 Email: salvo.scaravalle@gmail.com
+###Contact
+- 📫 Email: salvo.scaravalle@gmail.com
 ---
