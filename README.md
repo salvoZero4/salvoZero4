@@ -8,10 +8,8 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 ### 🚀 What I'm working on right now
 - 🔭 **Current Projects:** I am actively working on several side projects.
 - 🎯 **Goals:** Consolidating my programming foundations.
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies
 - **Languages:** HTML5, CSS3, JavaScript, Java, Swift.
 ---
-### 📫 How to reach me
-- 💬 Ask me about: Software development or my current projects.
-- 📫 Email: salvo.scaravalle@gmail.com
+📫 Email: salvo.scaravalle@gmail.com
 ---
