@@ -10,6 +10,7 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 - 🎯 **Goals:** Consolidating my programming foundations.
 ### 🛠️ Technologies
 - **Languages:** HTML5, CSS3, JavaScript, Java, Swift.
+- **Framework** React.js
 ---
 ### 📧Contact
 - 📫 Email: salvo.scaravalle@gmail.com
