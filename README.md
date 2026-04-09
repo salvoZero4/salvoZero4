@@ -9,7 +9,7 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 - 🔭 **Current Projects:** I am actively working on several side projects.
 - 🎯 **Goals:** Consolidating my programming foundations.
 ### 🛠️ Technologies
-- **Languages:** HTML5, CSS3, JavaScript, Java, Swift.
+- **Languages:** HTML5, CSS3, JavaScript,TypeScript, Java, Swift.
 - **Framework** React.js
 ---
 ### 📧Contact
