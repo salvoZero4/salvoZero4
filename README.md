@@ -1,6 +1,6 @@
 # Hi, I'm SalvoZero4! 👋
 
-### 👨‍💻 Software Development Enthusiast
+### 👨‍💻 Aspiring Software Engineer
 
 Welcome to my profile! I am a developer focused on creating personal projects and continuously expanding my technical skills.
 
@@ -10,7 +10,7 @@ Welcome to my profile! I am a developer focused on creating personal projects an
 - 🎯 **Goals:** Consolidating my programming foundations.
 ### 🛠️ Technologies
 - **Languages:** HTML5, CSS3, JavaScript,TypeScript, Java, Swift.
-- **Framework** React.js
+- **Framework** React.js, Angular.js
 ---
 ### 📧Contact
 - 📫 Email: salvo.scaravalle@gmail.com
