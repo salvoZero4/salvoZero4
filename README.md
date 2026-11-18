@@ -16,12 +16,12 @@ I build mobile apps and the APIs behind them. My projects cover strength trainin
 I’m building **ZeroBuff**, an open source strength training tracker for iOS and Android. It lets you plan routines, log sets with a rest timer, and compare your lifts across sessions. The app uses **React Native, Expo, and TypeScript**. The backend uses **FastAPI and PostgreSQL**.
 
 <p align="center">
-  <a href="https://github.com/salvoZero4/ZeroBuff#screenshots"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/today.png" alt="ZeroBuff Today screen showing the weekly workout plan" width="160"></a>
-  <a href="https://github.com/salvoZero4/ZeroBuff#screenshots"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/workout.png" alt="ZeroBuff workout screen showing the rest timer and set log" width="160"></a>
-  <a href="https://github.com/salvoZero4/ZeroBuff#screenshots"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/analytics-exercise.png" alt="ZeroBuff Analytics showing bench press progress and a comparison between sessions" width="160"></a>
+  <a href="https://github.com/salvoZero4/ZeroBuff/blob/main/docs/images/today.png"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/today.png" alt="Today showing the weekly schedule and the assigned workout" width="148"></a>
+  <a href="https://github.com/salvoZero4/ZeroBuff/blob/main/docs/images/workout.png"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/workout.png" alt="Active workout with the rest timer, load, reps, and RIR" width="148"></a>
+  <a href="https://github.com/salvoZero4/ZeroBuff/blob/main/docs/images/analytics-exercise.png"><img src="https://raw.githubusercontent.com/salvoZero4/ZeroBuff/main/docs/images/analytics-exercise.png" alt="Barbell bench press load over time with a session comparison" width="148"></a>
 </p>
 
-**[Explore ZeroBuff](https://github.com/salvoZero4/ZeroBuff)** · [See all screenshots](https://github.com/salvoZero4/ZeroBuff#screenshots)
+**[Explore ZeroBuff](https://github.com/salvoZero4/ZeroBuff)** · [See all six screenshots](https://github.com/salvoZero4/ZeroBuff#screenshots)
 
 ## More projects
 
